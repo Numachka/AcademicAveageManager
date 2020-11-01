@@ -4,7 +4,7 @@ Academic average calculating app using Java, JavaFX (no FXML), Collections and M
 ### Explanation
 The app is a tool I created for myself to keep track of my courses and academic average.
 I tried taking software engineering steps in creating. I decided to use java as it is my current strongest language.
-Afterwards Iv'e decided to use and MVC pattern to seperate my class files to keep it clean.
+Afterwards I've decided to use and MVC pattern to seperate my class files to keep it clean.
 #### Model
 The model classes are Student and Course objects. Iv'e decided to put the courses as an ArrayList field in the Student
 class so it is iterable, comparable, and also both of them implement Serialzible for simple writing to and loading from a file.
